@@ -6,6 +6,8 @@ Author: bshakhruz
 """
 import ollama
 
+#TO-DO: pass all essential params
+
 def system_instruction():
     """Preprocess texts"""
     return {
